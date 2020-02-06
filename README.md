@@ -22,6 +22,7 @@ cd webapp
 ./mange.py migrate
 ./mange.py runserver
 ```
+### Go and check for endpoints `http://127.0.0.1:8000/api/`
 
 ## Running Scripts
 ### Your Django server should be running in background.
